@@ -33,6 +33,10 @@ button{
     font-size: 36px;
     font-weight: bold;
 }
+.input-choice{
+    display: flex;
+   
+}
 #rock{
     background-color: #B38B6D;
     padding-right: 50px;
